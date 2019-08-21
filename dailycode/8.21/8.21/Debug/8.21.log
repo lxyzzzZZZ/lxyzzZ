@@ -1,0 +1,3 @@
+﻿  源.cpp
+h:\git\lxy\dailycode\8.21\8.21\源.cpp(57): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  8.21.vcxproj -> H:\Git\lxy\dailycode\8.21\Debug\8.21.exe
